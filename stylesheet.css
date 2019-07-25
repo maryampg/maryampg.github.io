@@ -1,0 +1,26 @@
+/* .pic {
+    width:50%;
+  } */
+
+  body{
+    font-family: 'Darker Grotesque', sans-serif;
+  }
+ p {
+     font-size: 18pt;
+ }
+
+ #about-section .card{
+     width: 400px;
+     float: left;
+     margin-right: 20px;
+ }
+
+ .brand-logo {
+     margin-left: 20px;
+     font-family: 'Geostar', cursive;
+    
+ }
+
+.social-media{
+    align-content: center;
+}
